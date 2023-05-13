@@ -1,0 +1,3 @@
+#Ne pas suivre le dossier node_modules
+node_modules/
+fichier2.html
